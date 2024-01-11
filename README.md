@@ -6,8 +6,10 @@ French Full-Stack Software Engineer always hungry to open my horizon and keep on
 
 After spending the last 5 years at [Third Bridge](https://thirdbridge.com/) as a Principal Software Engineer and Team Leader, I'm leaving the United Kingdom to go on a solo trip for few months in South East Asia following the ["One bag" philosophy](https://www.reddit.com/r/onebag/).
 
- - __From:__ Rennes, France 🇫🇷
- - __Languages spoken:__ 🇫🇷, 🇬🇧, 🇪🇸 (learning)
+ - 📍 __From:__ Rennes, France 🇫🇷
+ - 🗣️ __Languages spoken:__ French, English, Spanish (learning)
+ - ✉️ __How to reach me:__ Probably worth contacting me directly on [linkedin](https://www.linkedin.com/in/marwan-el-boussarghini)
+ - ✨ __Fun fact about me:__ I've spent about a year and half completely remote, living in Mauritius island.
 
 
 ## Work philosophy
