@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Marwan 👋🏾</h1>
 
-<img width="100%" src="https://raw.githubusercontent.com/MarwanEB/MarwanEB/main/banner.avif" />
+<img width="100%" src="./banner.png" />
 
 French Full-Stack Software Engineer always hungry to open my horizon and keep on learning.
 
